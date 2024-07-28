@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'll work on making a better README at some point, but for now, here's my stats:
+I'll work on making a better README at some point, but for now, here's some stats:
 
 [![Ginsm's GitHub stats](https://github-readme-stats.vercel.app/api?username=ginsm&theme=tokyonight&hide_border=true&show_icons=true&line_height=26)](https://github.com/anuraghazra/github-readme-stats)
 
